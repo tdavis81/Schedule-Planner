@@ -1,0 +1,10 @@
+C:\Documents and Settings\cp749\Desktop\Tyler's Folder\My Visual Basic Programs\Tylers VB Programs\Week Schudule\Week Schudule\bin\Debug\Week Schudule.exe
+C:\Documents and Settings\cp749\Desktop\Tyler's Folder\My Visual Basic Programs\Tylers VB Programs\Week Schudule\Week Schudule\bin\Debug\Week Schudule.pdb
+C:\Documents and Settings\cp749\Desktop\Tyler's Folder\My Visual Basic Programs\Tylers VB Programs\Week Schudule\Week Schudule\bin\Debug\Week Schudule.xml
+C:\Documents and Settings\cp749\Desktop\Tyler's Folder\My Visual Basic Programs\Tylers VB Programs\Week Schudule\Week Schudule\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cp749\Desktop\Tyler's Folder\My Visual Basic Programs\Tylers VB Programs\Week Schudule\Week Schudule\obj\Debug\Week_Schudule.Form1.resources
+C:\Documents and Settings\cp749\Desktop\Tyler's Folder\My Visual Basic Programs\Tylers VB Programs\Week Schudule\Week Schudule\obj\Debug\Week_Schudule.Resources.resources
+C:\Documents and Settings\cp749\Desktop\Tyler's Folder\My Visual Basic Programs\Tylers VB Programs\Week Schudule\Week Schudule\obj\Debug\Week Schudule.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cp749\Desktop\Tyler's Folder\My Visual Basic Programs\Tylers VB Programs\Week Schudule\Week Schudule\obj\Debug\Week Schudule.exe
+C:\Documents and Settings\cp749\Desktop\Tyler's Folder\My Visual Basic Programs\Tylers VB Programs\Week Schudule\Week Schudule\obj\Debug\Week Schudule.xml
+C:\Documents and Settings\cp749\Desktop\Tyler's Folder\My Visual Basic Programs\Tylers VB Programs\Week Schudule\Week Schudule\obj\Debug\Week Schudule.pdb
